@@ -109,7 +109,7 @@
 }
 .slider-arrow {
   position: absolute;
-  top: 85%;
+  top: 90%;
   right: 15%;
   transform: translate(-50%, -50%);
 }
@@ -125,7 +125,7 @@
   line-height: 1.5rem;
   border-radius: 0 40px 0 0;
   position: absolute;
-  top: 78%;
+  top: 85%;
   width: 70%;
 }
 .rounded-text {
